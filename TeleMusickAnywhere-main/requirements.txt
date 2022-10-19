@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.4.0
+Pillow
+qrcode
+opencv-python-headless
+sqlalchemy
+SpeechRecognition
