@@ -9,3 +9,4 @@
 Запускать файл main.py для запуска хостинга бота.
 
 Программа не облагается авторскими правами и её свободно можно применять в своих целях
+[Tele Musick Anywhere.pdf](https://github.com/EmilGoryachih/Tele-Musick-Anywhere/files/10538934/Tele.Musick.Anywhere.pdf)
